@@ -1,0 +1,1 @@
+export type CommonTypeTableResult = { [key: string]: string; } | { [key: string]: string; }[];
